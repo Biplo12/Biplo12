@@ -16,7 +16,6 @@
 [![website](./img/linkedin-light.svg)]()
 [![website](./img/linkedin-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)]()
 [![website](./img/facebook-dark.svg)]()
 
 ### Languages and Tools:
