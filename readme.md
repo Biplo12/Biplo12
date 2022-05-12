@@ -1,4 +1,4 @@
-# Hi there, I'm Robert - aka [Biplo]👋
+# Hi there, I'm Robert - aka Biplo12👋
 
 ## I'm a junior web developer!
 
@@ -8,16 +8,12 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)]()
-[![website](./img/globe-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)]()
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/facebook-light.svg)]()
-[![website](./img/facebook-dark.svg)]()
 
 ### Languages and Tools:
 
