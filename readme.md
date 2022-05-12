@@ -7,13 +7,13 @@
 
 ### Contact me:
 
-[![website](./img/globe-dark.svg)]
+![website](./img/globe-dark.svg)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)]
+![website](./img/twitter-dark.svg)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)]
+![website](./img/linkedin-dark.svg)
 &nbsp;&nbsp;
-[![website](./img/facebook-dark.svg)]
+![website](./img/facebook-dark.svg)
 
 ### Languages and Tools:
 
