@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning MERN stack
 - 🥅 2022 Goals: contribute more
+- 💁 I'm currently looking for job.
+- 📬 How to reach me: robertbiplosek@gmail.com
 
 ### Contact me:
 
