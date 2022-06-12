@@ -7,16 +7,6 @@
 - 💁 I'm currently looking for job.
 - 📬 How to reach me: robertbiplosek@gmail.com
 
-### Contact me:
-
-![website](./img/globe-dark.svg)
-&nbsp;&nbsp;
-![website](./img/twitter-dark.svg)
-&nbsp;&nbsp;
-![website](./img/linkedin-dark.svg)
-&nbsp;&nbsp;
-![website](./img/facebook-dark.svg)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
