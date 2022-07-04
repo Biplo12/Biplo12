@@ -3,8 +3,7 @@
 ## I'm a junior web developer!
 
 
-- [My personal portfolio](win95-portfolio.herokuapp.com)
-
+[My personal portfolio](win95-portfolio.herokuapp.com)<br/>
 
 - 🌱 I’m currently learning MERN stack
 - 🥅 2022 Goals: contribute more
