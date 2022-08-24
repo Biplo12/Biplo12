@@ -5,9 +5,8 @@
 
 <!-- ## [My personal portfolio](http://win95-portfolio.herokuapp.com/)<br/> -->
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack and Web 3.0
 - 🥅 2022 Goals: contribute more
-- 💁 I'm currently looking for job.
 - 📬 How to reach me: robertbiplosek@gmail.com
 
 ### Languages and Tools:
