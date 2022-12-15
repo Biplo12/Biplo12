@@ -1,6 +1,6 @@
 # Hi there, I'm Robert - aka Biplo12👋
 
-## I'm a junior web/web 3.0 developer!
+## I'm a junior web 3.0 developer!
 
 
 <!-- ## [My personal portfolio](http://win95-portfolio.herokuapp.com/)<br/> -->
