@@ -5,7 +5,7 @@
 
 <!-- ## [My personal portfolio](http://win95-portfolio.herokuapp.com/)<br/> -->
 
-- 🌱 I’m currently learning T3 stack and Web 3.0
+- 🌱 I’m currently learning T3 stack and Solidity
 - 🥅 2022 Goals: contribute more
 - 📬 How to reach me: robertbiplosek@gmail.com
 
