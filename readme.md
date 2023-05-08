@@ -57,13 +57,13 @@
 
 <ul style="list-style-type:none;">
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://linkedin.com/in/robert-siński-037398227" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Biplo12-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="mailto:robertbiplosek@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Biplo12-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -82,18 +82,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Biplo12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"
   />
 
-</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biplo12&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Biplo12"/>
-</div>
-
-<br>
-<br>
-
-</div>
-
-
-
-
-</div>
-
-</div>
+</a>
