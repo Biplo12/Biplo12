@@ -6,28 +6,30 @@
     </h3>
 </div>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<br>
+
+## <b> About Me</b>
 
 <br>
 
-- A passionate Self-taught Front-end developer. With a strong interest in Blockchain, Web3 and backend development.
+- A passionate Self-taught Front-end developer. With a strong interest in Blockchain, Web3 and backend development
 - I’m currently learning T3 Stack and Solidity
 - Currently working in a startup as a Frontend Developer
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <b> Skills</b>
 
 <br>
 
 <p align="center">
 
-- **Languages**:
+**Programming Languages**:
     
-    ![Python](https://img.shields.io/badge/Python%20|%20Begginer%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Solidity](https://img.shields.io/badge/Solidity%20|%20Begginer%20-%2314354C.svg?style=for-the-badge&logo=solidity&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python%20|%20Begginer%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity%20|%20Begginer%20-%2314354C.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-<br>   
+<br> 
     
-- **Front-End Development**:
+**Front-End Development**:
 
    ![React](https://img.shields.io/badge/React%20-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white&color=blue)
    ![NextJS](https://img.shields.io/badge/NEXT%20-%23E34F26.svg?style=for-the-badge&logo=next.js&logoColor=white&color=blue)
@@ -39,7 +41,7 @@
 
 <br>
 
-- **Backend-End Development**:
+**Backend-End Development**:
 
    ![FIREBASE](https://img.shields.io/badge/firebase%20-%23E34F26.svg?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
    ![MONGODB](https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=for-the-badge&logo=mongodb&logoColor=bla&color=darkgreen)
@@ -50,7 +52,7 @@
 
 <br>
 
-- **Softwares and Tools**:
+**Softwares and Tools**:
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -58,7 +60,7 @@
 
 <br>
 
-- **Extras**:
+**Extras**:
 
   ![TERMINAL](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -67,33 +69,18 @@
   ![SENTRY](https://img.shields.io/badge/sentry-%23000000.svg?style=for-the-badge&logo=sentry&logoColor=white)
   <br><br>
 </p>
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>Contact Me!</b>
 
-<br>
-<div align='left'>
+## <b>Contact Me!</b>
 
-<ul style="list-style-type:none;">
-<br>
-
-<li>
-<a href="https://linkedin.com/in/robert-siński-037398227" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Biplo12-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
-<a href="mailto:robertbiplosek@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Biplo12-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	<br>
-</ul>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  <a href="https://discordapp.com/users/1011685878550233088">![Discord](https://img.shields.io/badge/Discord%20-%23E34F26.svg?style=for-the-badge&logo=discord&logoColor=white&color=blue)</a>
+  <a href="https://pl.linkedin.com/in/robert-si%C5%84ski-037398227?trk=people-guest_people_search-card">![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%23E34F26.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
+  <a
+  href="mailto:robertbiplosek@gmail.com">![Gmail](https://img.shields.io/badge/Gmail%20-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)</a>
 <br>
 
-<div align="center">
+
+
+## <b> Github Stats </b>
 
 <a href="https://github.com/Biplo12/">
   <img src="https://github-readme-stats.vercel.app/api?username=Biplo12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"
