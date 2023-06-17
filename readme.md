@@ -77,6 +77,8 @@
   <a
   href="mailto:robertbiplosek@gmail.com">![Gmail](https://img.shields.io/badge/Gmail%20-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)</a>
 <br>
+<br>
+
 
 
 
