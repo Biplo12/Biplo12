@@ -77,12 +77,3 @@
   href="mailto:robertbiplosek@gmail.com">![Gmail](https://img.shields.io/badge/Gmail%20-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)</a>
 <br>
 <br>
-
-## <b> Github Stats </b>
-
-<a href="https://github.com/Biplo12/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biplo12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"
-  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biplo12&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Biplo12"/>
-</a>
