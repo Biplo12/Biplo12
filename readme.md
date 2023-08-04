@@ -3,6 +3,7 @@
     <h2 align="center">I'm a Junior Frontend Developer 👨🏻‍💻 with a passion for learning and creating new things.</h2>
     <h3>
         <a href="https://github.com/Biplo12/Biplo12/blob/main/resources/Robert-Sinski-CV.pdf" target="_blank">Resume</a> for more details about me.
+        Also see my <a href="https://robert-sinski-portfolio.vercel.app/" target="_blank">portfolio</a> page. 
     </h3>
 </div>
 
