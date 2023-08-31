@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">Hi <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> I'm Robert - aka Biplo12</h1>
-    <h2 align="center">I'm a Junior Frontend Developer 👨🏻‍💻 with a passion for learning and creating new things.</h2>
+    <h2 align="center">I'm a Junior Full Stack Engineer 👨🏻‍💻 with a passion for learning and creating new things.</h2>
     <h3>
         <a href="https://github.com/Biplo12/Biplo12/blob/main/resources/Robert-Sinski-CV.pdf" target="_blank">Resume</a> for more details about me.
     </h3>
