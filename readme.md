@@ -16,8 +16,6 @@
 - A passionate Self-taught Full Stack Engineer. With a strong interest in Blockchain and Web3
 - I’m currently learning T3 Stack and Solidity
 
-<br>
-
 ## <b> Skills</b>
 
 <p align="center">
