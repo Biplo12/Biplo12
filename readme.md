@@ -13,9 +13,8 @@
 
 ## <b> About Me</b>
 
-- A passionate Self-taught Front-end developer. With a strong interest in Blockchain, Web3 and backend development
+- A passionate Self-taught Full Stack Engineer. With a strong interest in Blockchain and Web3
 - I’m currently learning T3 Stack and Solidity
-- Currently working in a startup as a Frontend Developer
 
 <br>
 
