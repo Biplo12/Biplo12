@@ -5,7 +5,7 @@
         <a href="https://github.com/Biplo12/Biplo12/blob/main/resources/Robert-Sinski-CV.pdf" target="_blank">Resume</a> for more details about me.
     </h3>
     <h3>
-        Also see my <a href="https://robert-sinski-portfolio.vercel.app/" target="_blank">portfolio</a> page. 
+        Also check out my <a href="https://robert-sinski-portfolio.vercel.app/" target="_blank">portfolio</a> page. 
     </h3>
 </div>
 
