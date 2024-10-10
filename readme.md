@@ -13,6 +13,9 @@ I am an ambitious and passionate engineer seeking opportunities for growth and e
 * 🤝  I'm open to collaborating on Intresting projects.
 * ⚡  A passionate Self-taught Full-Stack Engineer
 
+👷 Currently Working On:
+I'm developing SkillBridge, a platform that connects developers, designers, and tech enthusiasts to collaborate on side projects and upskill together. Stay tuned for updates!
+
 ### Skills
 
 <p align="left">
