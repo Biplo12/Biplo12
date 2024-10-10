@@ -9,7 +9,7 @@ I am an ambitious and passionate engineer seeking opportunities for growth and e
 * 🌍  I'm based in Katowice.
 * 🖥️  See my portfolio at [robert-sinski-portfolio.vercel.app](http://robert-sinski-portfolio.vercel.app/)
 * ✉️  You can contact me at [robert.sinski@outlook.com](mailto:robert.sinski@outlook.com)
-* 🧠  I'm learning Convex, tRPC.
+* 🧠  I'm learning Solidity.
 * 🤝  I'm open to collaborating on Intresting projects.
 * ⚡  A passionate Self-taught Full-Stack Engineer
 
