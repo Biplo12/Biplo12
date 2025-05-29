@@ -7,7 +7,7 @@ Full-Stack Engineer
 I am an ambitious and passionate engineer seeking opportunities for growth and experience in the technology industry. My strengths lie in both front-end and back-end development, as well as my ability to work well within a team. I am eager to apply my passion and skills to deliver high-quality products.
 
 * 🌍  I'm based in Katowice.
-* 🖥️  See my portfolio at [robert-sinski-portfolio.vercel.app](http://robert-sinski-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [[robertsinski.dev](https://robertsinski.dev/)]
 * ✉️  You can contact me at [robert.sinski@outlook.com](mailto:robert.sinski@outlook.com)
 * 🧠  I'm learning Solidity.
 * 🤝  I'm open to collaborating on Intresting projects.
