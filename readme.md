@@ -9,12 +9,8 @@ I am an ambitious and passionate engineer seeking opportunities for growth and e
 * 🌍  I'm based in Katowice.
 * 🖥️  See my portfolio at [robertsinski.dev](https://robertsinski.dev/)
 * ✉️  You can contact me at [robert.sinski@outlook.com](mailto:robert.sinski@outlook.com)
-* 🧠  I'm learning Solidity.
 * 🤝  I'm open to collaborating on Intresting projects.
 * ⚡  A passionate Self-taught Full-Stack Engineer
-
-👷 Currently Working On:
-I'm developing SkillBridge, a platform that connects developers, designers, and tech enthusiasts to collaborate on side projects and upskill together. Stay tuned for updates!
 
 ### Skills
 
