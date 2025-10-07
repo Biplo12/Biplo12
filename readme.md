@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-Stack Engineer
 -------------------
-![](https://komarev.com/ghpvc/?username=biplo12)
 I am an ambitious and passionate engineer seeking opportunities for growth and experience in the technology industry. My strengths lie in both front-end and back-end development, as well as my ability to work well within a team. I am eager to apply my passion and skills to deliver high-quality products.
 
 * 🌍  I'm based in Katowice.
@@ -21,4 +20,5 @@ I am an ambitious and passionate engineer seeking opportunities for growth and e
 ### Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/robert-siński" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 
