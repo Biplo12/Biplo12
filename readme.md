@@ -5,7 +5,7 @@ Full-Stack Engineer from Katowice.
 I like building useful web products — from UI to backend and deployment.  
 Mostly working with JavaScript/TypeScript and modern web stack.
 
-Founder of [klaps-hq](https://github.com/klaps-hq).
+Founder of [klaps-hq](https://github.com/klaps-hq)
 
 ## Contact
 
@@ -14,3 +14,4 @@ Founder of [klaps-hq](https://github.com/klaps-hq).
 - [LinkedIn](https://www.linkedin.com/in/robert-si%C5%84ski)
 
 I’m open to collaboration.
+
