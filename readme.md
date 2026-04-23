@@ -12,8 +12,6 @@
   <a href="https://github.com/klaps-hq"><img src="img/klaps-logo.png" width="48" alt="klaps logo" align="middle" /></a> &nbsp;&nbsp; <a 
   href="https://github.com/klaps-hq">github.com/klaps-hq</a>
   <br /><br />
-  <a href="https://payrecoll.com/"><img src="img/payrecoll-logo.png" width="48" alt="payrecoll logo" align="middle" /></a> &nbsp;&nbsp; <a 
-  href="https://payrecoll.com/">payrecoll.com</a>
 
   ---
 
