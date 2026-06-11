@@ -9,7 +9,7 @@
 
   ## Featured Projects
 
-  <a href="https://github.com/klaps-hq"><img src="img/klaps-logo.png" width="48" alt="klaps logo" align="middle" /></a> &nbsp;&nbsp; <a 
+  <a href="https://github.com/klaps-hq"><img src="img/favicon-96x96.png" width="48" alt="klaps logo" align="middle" /></a> &nbsp;&nbsp; <a 
   href="https://github.com/klaps-hq">github.com/klaps-hq</a>
   <br />
 
