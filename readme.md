@@ -1,9 +1,9 @@
   Robert Siński                                                                                                                                          
                         
-  Full-Stack Engineer from Katowice.                                                                                                                       
+  Full-Stack Developer from Katowice.                                                                                                                       
                                                                                                                                                            
   I like building useful web products, from UI to backend and deployment.                                                                                 
-  Mostly working with JavaScript/TypeScript and modern web stack.
+  Mostly working with React/Next.js/Node/TypeScript and modern web stack.
 
   ---
 
